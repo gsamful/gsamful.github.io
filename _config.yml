@@ -1,20 +1,6 @@
 # Site settings
 title: Your awesome title
 email: your-email@domain.com
-
-
-# 作者信息
-author: 
-  name: gsamful
-  email: 
-  link: http://www.gsamful.com
-  weibo: 
-  github: 
-
-# avatar头像及Favicon
-avatar: https://raw.githubusercontent.com/gsamful/gsamful.github.io/master/_site/images/photo.jpg
-
-
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
