@@ -3,8 +3,7 @@ title: Just for Fun!
 email: your-email@domain.com
 
 
-description: > # this means to ignore newlines until "baseurl:"
-The blog is just built in the last few days, so it needs improving further!
+description: > # this means to ignore newlines until "baseurl:"The blog is just built in the last few days, so it needs improving further!
   
 baseurl: "" # the subpath of your site, e.g. /blog/
 
